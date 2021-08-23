@@ -82,6 +82,7 @@ strong {
   width: 100%;
   background-color: var(--dark-gray-blue);
   margin: 1.5rem 0;
+  opacity: .25;
 }
 
 .statsWrapper {
